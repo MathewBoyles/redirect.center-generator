@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "reflect-metadata": "^0.1.13",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.4"
+  },
+  "name": "redirect.center-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MathewBoyles/redirect.center-generator.git",
+  "author": "Mathew Boyles <hello@mathewboyles.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "./node_modules/typescript/bin/tsc && node ./lib/index.js"
+  }
+}
