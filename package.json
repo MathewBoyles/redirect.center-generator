@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
     "reflect-metadata": "^0.1.13",
     "tslint": "^5.12.1",
     "typescript": "^3.2.4"
